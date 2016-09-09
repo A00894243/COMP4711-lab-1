@@ -6,7 +6,7 @@
  * Time: 4:45 PM
  */
 
-include('student.php');
+include('Student.php');
 
 $students = array();
 
